@@ -1,9 +1,3 @@
-Here is a **clean, production-style README.md** for your LangGraph Research Agent project using **Bright Data + SERP API**.
-
-You can paste this directly into your GitHub repo.
-
----
-
 # 🧠 LangGraph Research Agent
 
 An autonomous research agent built using **LangGraph + LangChain** that performs multi-source web research (Google, Bing, Reddit) and returns a unified, context-aware summary.
